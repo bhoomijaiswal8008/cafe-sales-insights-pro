@@ -24,7 +24,7 @@ To explore this dashboard:
 ### 📂 Repository Structure
 - `CAFE_Analytics.xlsx`: The main file with raw data, pivots, and the dashboard.
 - `screenshots/`: Visual previews of the cafe insights. 🖼️
-- **Video Demo:** [Link to GDrive Video] 🎥 *(Watch how I filter sales by location and category!)*
+- **Video Demo:** [https://drive.google.com/drive/folders/1l05GG_NceZounjO7OGm3E2ZnDVy6kWw9?usp=drive_link] 🎥 *(Watch how I filter sales by location and category!)*
 
 ### 🚀 Getting Started
 1. Clone this repo.
